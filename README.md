@@ -1,4 +1,4 @@
-# Stick-Drift-Temp-Fix
- GPC script made to stop stick drift on the right analog stick. It is possible to edit the code to take into account the left stick or to lax the deadzones in place. This is just an example of stopping the right stick from drifting upwards by itself. I highly suggest replacing your controller instead of relying on this script because it may effect your accuracy in the long run.
+# Stick Drift Temp Fix
+GPC script made to stop stick drift on the right analog stick. It is possible to edit the code to take into account the left stick or to lax the deadzones in place. This is just an example of stopping the right stick from drifting upwards by itself. I highly suggest replacing your controller instead of relying on this script because it may effect your accuracy in the long run.
 
 However, this script will serve as a baseline to allow your controller to function properly at least until you get a replacement. The program at default is set to prevent your stick from drifting upwards because that is the most common stick drift issue. This fix is not permanent and is only active if you're connected through a TitanTwo device (and using the profile with this script) or anything that can support gpc. 

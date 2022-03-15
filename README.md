@@ -5,7 +5,7 @@ However, this script will serve as a baseline to allow your controller to functi
 
 **Finding Deadzone Values**
 ----------------------------------------------------------------------------------------------------------------------------
-First of all, I should cover what is a deadzone on a controller. The higher the deadzone value, the larger the “dead zone” of the joystick. With the value set at zero, the joystick will respond to any and all joystick movement. Anything higher than zero will create a zone where input will not be registered. I have set the current deadzone to 80 on the right stick for upwards input. You may want to check your particular problem through the device monitor.
+First of all, I should cover what is a deadzone on a controller. The higher the deadzone value, the larger the “dead zone” of the analog stick. When the value is set at zero, the joystick will respond to any and all joystick movement. A value higher than zero will create a zone where input will not be registered. I have set the current deadzone to 80 on the right stick for upwards input. You may want to check your particular problem through the device monitor.
 
 In the image below, the left side represents the input I am making, while the right side is what the device will output. You can check your drift values through the monitor and adjust accordingly. Note that your drift values may vary heavily from time to time, so that that into account.
 

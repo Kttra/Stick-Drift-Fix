@@ -9,6 +9,6 @@ First of all, I should cover what is a deadzone on a controller. The higher the 
 
 I have set the current deadzone to 80 on the right stick for upwards input. So on the right stick, if an upwards value of 80 or below is received, it will not be outputted. However if an output of 80 or above is received, it will be outputted. You may want to check your particular problem through the device monitor.
 
-In the image below, the left side represents the input I am making, while the right side is what the device will output. You can check your drift values through the monitor and adjust accordingly. Note that your drift values may vary heavily from time to time, so that that into account.
+In the image below, the left side represents the input I am making, while the right side is what the device will output. You can check your drift values through the monitor and adjust accordingly. Note that your drift values may vary heavily from time to time, so take that into account.
 
 ![alt text](https://github.com/Kttra/Stick-Drift-Temp-Fix/blob/sub/stick%20drift%20output.png)

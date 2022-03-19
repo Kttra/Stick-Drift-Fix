@@ -9,6 +9,8 @@ First of all, it's important to know what a deadzone is on a controller. The hig
 
 I have set the current deadzone to 80 on the right stick for upwards input. So on the right stick, if an upwards value of 80 or below is received, it will not be outputted. However if an output of 80 or above is received, it will be outputted. You may want to check your particular problem through the device monitor.
 
+**The Fix in Action**
+----------------------------------------------------------------------------------------------------------------------------
 In the video below, the left side represents the inputs made realtime while the right side and center is what the device will output. In the video, notice that the right analog stick is being pushed upwards and how it will not be registered until it hits the -80 to -100 range. These values are set to be outside of our deadzone threshold. You can check your drift values using the monitor and adjust your deadzone thresholds accordingly. Note that your drift values may vary heavily from time to time, so take that into account.
 
 https://user-images.githubusercontent.com/100814612/159133741-3211bb21-a764-4c35-a246-3546cea17b90.mp4

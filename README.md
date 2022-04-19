@@ -19,6 +19,6 @@ https://user-images.githubusercontent.com/100814612/159133741-3211bb21-a764-4c35
 ----------------------------------------------------------------------------------------------------------------------------
 [TurboMode](https://github.com/Kttra/TurboMode) - Emulate the popular turbo mode feature from many custom controllers and arcade controllers.
 
-[Keyboard Remapper](https://github.com/Kttra/PPD-Keyboard-Remapper) - A project that looks into the keyboard rollover problem that plagues many laptops and keyboards and provides a solution.
+[Keyboard Rollover](https://github.com/Kttra/PPD-Keyboard-Remapper) - A project that looks into the keyboard rollover problem that plagues many laptops and keyboards and provides a solution.
 
 [Macro Runner](https://github.com/Kttra/MacroRunner) - Run custom recorded macros on different gaming consoles and computers.

@@ -14,3 +14,11 @@ I have set the current deadzone to 80 on the right stick for upwards input. So o
 In the video below, the left side represents the inputs made realtime while the right side and center is what the device will output. In the video, notice that the right analog stick is being pushed upwards and how it will not be registered until it hits the -80 to -100 range. These values are set to be outside of our deadzone threshold. You can check your drift values using the monitor and adjust your deadzone thresholds accordingly. Note that your drift values may vary heavily from time to time, so take that into account.
 
 https://user-images.githubusercontent.com/100814612/159133741-3211bb21-a764-4c35-a246-3546cea17b90.mp4
+
+**Other Related Projects**
+----------------------------------------------------------------------------------------------------------------------------
+[TurboMode](https://github.com/Kttra/TurboMode) - Emulate the popular turbo mode feature from many custom controllers and arcade controllers.
+
+[Keyboard Remapper](https://github.com/Kttra/PPD-Keyboard-Remapper) - A project that looks into the keyboard rollover problem that plagues many laptops and keyboards and provides a solution.
+
+[Macro Runner](https://github.com/Kttra/MacroRunner) - Run custom recorded macros on different gaming consoles and computers.

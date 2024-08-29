@@ -17,18 +17,18 @@
 
 main {
 	// Right stick drift correction
-	if(get_val(STICK_1_X) > -50.0 && get_val(STICK_1_X) < 50.0) {
+	if(get_val(STICK_1_X) > -80.0 && get_val(STICK_1_X) < 80.0) {
 		set_val(STICK_1_X, 0);
 	}
-	if(get_val(STICK_1_Y) > -50.0 && get_val(STICK_1_Y) < 50.0) {
+	if(get_val(STICK_1_Y) > -80.0 && get_val(STICK_1_Y) < 80.0) {
 		set_val(STICK_1_Y, 0);
 	}
 
 	// Left stick drift correction
-	if(get_val(STICK_2_X) > -50.0 && get_val(STICK_2_X) < 50.0) {
+	if(get_val(STICK_2_X) > -80.0 && get_val(STICK_2_X) < 80.0) {
 		set_val(STICK_2_X, 0);
 	}
-	if(get_val(STICK_2_Y) > -50.0 && get_val(STICK_2_Y) < 50.0) {
+	if(get_val(STICK_2_Y) > -80.0 && get_val(STICK_2_Y) < 80.0) {
 		set_val(STICK_2_Y, 0);
 	}
 }
